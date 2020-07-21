@@ -18,6 +18,9 @@
 - 输出：receipt:string
 6. 输出数据
 
+# Context map
+![Pos v0.2.png](http://ww1.sinaimg.cn/large/0061iV1igy1ggyzz026uzj32m61egaip.jpg)
+
 # PDCA：完成Pos v0.2作业
 P：60mins
 D：70mins
